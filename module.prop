@@ -1,0 +1,6 @@
+id=buildp-edb2
+name=Build.prop Editor2
+version=v1.0.1
+versionCode=1
+author=Yerah112
+description=Edit build.prop systemlessly. Type 'su', then 'editbp' on terminal to start.
