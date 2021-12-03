@@ -5,7 +5,7 @@
 Note: This module won't modify your
 build.prop (found at/system/build.prop),
 but instead, it will add your tweaks at module's
-system.prop file which being load
+system.prop file which will be load
  by magisk during boot.
 
 
